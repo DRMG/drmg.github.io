@@ -10,6 +10,7 @@ wget https://drmg.github.io/apache2_nomysql.sh -O apache2.sh
 wget https://drmg.github.io/install_gmod.sh -O gmod.sh
 wget https://drmg.github.io/EasyInstall/run.sh -O run.sh
 wget https://drmg.github.io/EasyInstall/scripts.sh -O scripts.sh
+wget https://drmg.github.io/update.sh -O update.sh
 alias drmg-install="sh /etc/drmg/run.sh"
 clear
 echo "Instalation Finished! Run file new for Updates!"
