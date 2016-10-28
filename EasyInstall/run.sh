@@ -3,7 +3,8 @@ sh update.sh
 rm -r update.sh
 cd /etc/drmg/
 clear
-echo "Was installieren? Alle scripts: scripts"
+sh scripts.sh
+echo "Was installieren?"
 read -p "" var1
 sh /etc/drmg/$var1.sh
 
