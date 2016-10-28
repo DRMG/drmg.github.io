@@ -1,6 +1,7 @@
 wget https://drmg.github.io/ez.sh -O update.sh
 sh update.sh
 rm -r update.sh
+cd /etc/drmg/
 clear
 echo "Was installieren? Alle scripts: scripts"
 read -p "" var1
