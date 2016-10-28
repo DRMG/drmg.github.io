@@ -1,6 +1,6 @@
 # drmg.github.io
 
-#Guide: Install our EasyInstaller:
+#Guide: Install our EasyInstaller (in German):
 1: Download the Updater: wget https://drmg.github.io/ez.sh
 #
 2: Run the File: sh ez.sh
