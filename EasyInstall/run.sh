@@ -1,5 +1,5 @@
 wget https://drmg.github.io/ez.sh -O update.sh
-sh update-sh
+sh update.sh
 rm -r update.sh
 clear
 echo "Was installieren? Alle scripts: scripts"
