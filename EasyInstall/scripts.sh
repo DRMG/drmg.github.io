@@ -1,4 +1,4 @@
 clear
 cd /etc/drmg/
-echo "All Scripts:"
+echo "Alle Scripts (im Interface ohne .sh eingeben!):"
 ls
