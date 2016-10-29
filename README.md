@@ -10,3 +10,5 @@
 4: Finished! Now use our Programm via drmg-install
 #
 After a User ReLog, please set the alias new! Its a little bug.
+#
+Or start it with /etc/drmg/run.sh
