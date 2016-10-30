@@ -1,4 +1,4 @@
-mkdir /etc/drmg/devmode
+mkdir /etc/drmg-dev/
 clear
 echo "Downloading DevMode"
 sleep 3
