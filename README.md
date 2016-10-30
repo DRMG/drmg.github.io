@@ -11,4 +11,4 @@
 #
 After a User ReLog, please set the alias new! Its a little bug.
 #
-Or start it with /etc/drmg/run.sh
+Or start it with /etc/drmg/programm
