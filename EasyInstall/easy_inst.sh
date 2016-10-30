@@ -12,6 +12,7 @@ wget https://drmg.github.io/EasyInstall/run.sh -O run.sh
 wget https://drmg.github.io/EasyInstall/scripts.sh -O scripts.sh
 wget https://drmg.github.io/update.sh -O update.sh
 wget https://drmg.github.io/start.sh -O programm
+wget https://drmg.github.io/devmode/notify.sh -O developer.sh
 alias drmg-install="sh /etc/drmg/run.sh"
 chmod -R 777 /etc/drmg/
 clear
