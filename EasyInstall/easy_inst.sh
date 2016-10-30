@@ -1,4 +1,3 @@
-mv easy_inst.sh /etc/drmg/easy_inst.sh
 clear
 echo "DRMG EasyInstaller"
 echo "Creating Directory...."
