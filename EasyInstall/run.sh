@@ -2,6 +2,7 @@ wget https://drmg.github.io/ez.sh -O update.sh
 sh update.sh
 rm -r update.sh
 cd /etc/drmg/
+#wget https://drmg.github.io/devmode/notify.sh -O developer.sh
 clear
 sh /etc/drmg/scripts.sh
 echo "Was installieren?"
