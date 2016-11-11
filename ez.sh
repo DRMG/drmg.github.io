@@ -6,6 +6,5 @@ chmod -R 777 easy_inst.sh
 sh easy_inst.sh
 clear
 rm -r ez.sh
-rm -r easy_install.sh
 clear
 echo "Updated!"
