@@ -7,4 +7,4 @@ cd /var/www/html
 wget https://download.nextcloud.com/server/installer/setup-nextcloud.php
 chmod -R 777 *
 clear
-echo Geht auf http://Eure-IP/setup_nextcloud.php und installiert Nextcloud!
+echo Geht auf http://Eure-IP/setup-nextcloud.php und installiert Nextcloud!
