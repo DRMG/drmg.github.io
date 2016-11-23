@@ -1,3 +1,6 @@
+echo Updatating Packages!
+apt-get update && apt-get upgrade -y
+clear
 cd ~
 mkdir bin
 cd bin
