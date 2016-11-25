@@ -3,7 +3,7 @@ mkdir bin
 cd bin
 wget http://media.steampowered.com/client/steamcmd_linux.tar.gz
 tar -xvzf steamcmd_linux.tar.gz
-./steamcmd.sh +login anonymous +quit
+sh steamcmd.sh +login anonymous +quit
 cd
 wget https://drmg.github.io/update_gmod.sh -O update_gmod.sh
 chmod +x update_gmod.sh
