@@ -8,4 +8,4 @@ clear
 rm -r ez.sh
 rm -r easy_inst.sh
 clear
-echo "Updated!"
+echo "Updated! Programm starten mit: /etc/drmg/programm"
