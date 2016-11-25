@@ -1,5 +1,5 @@
 version="1.0"
-developers="David,Ben"
+developers="DRMG"
 downloadserver="https://drmg.github.io/ez.sh"
 wget $downloadserver -O update.sh
 sh update.sh
