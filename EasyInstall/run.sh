@@ -1,6 +1,14 @@
 version="1.0"
 developers="DRMG"
 downloadserver="https://drmg.github.io/ez.sh"
+mode="normal"
+devmode="devmode"
+
+if [ $mode = $devmode ]
+then
+        sed s/downloadserver="https://drmg.github.io/ez.sh"/downloadserver=" "/g run.sh 
+fi
+
 wget $downloadserver -O update.sh
 sh update.sh
 rm -r update.sh
