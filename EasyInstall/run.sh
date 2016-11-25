@@ -9,7 +9,6 @@ rm -r update.sh
 cd /etc/drmg/
 #wget https://drmg.github.io/devmode/notify.sh -O developer.sh
 clear
-echo "Using Version $version $version from §developers."
 sh /etc/drmg/scripts.sh
 echo "Was installieren?"
 read -p "" var1
