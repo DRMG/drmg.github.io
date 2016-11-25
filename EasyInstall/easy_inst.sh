@@ -16,7 +16,7 @@ wget https://drmg.github.io/EasyInstall/uninstall.sh -O uninstall.sh
 wget https://drmg.github.io/whoisconnected.sh -O whoisconnected.sh
 wget https://drmg.github.io/nextcloud.sh -O nextcloud.sh
 wget https://drmg.github.io/steamcmd.sh -O steamcmd.sh
-wget https://drmg.github.io/version.sh -O version.sh
+wget https://drmg.github.io/EasyInstall/version.sh -O version.sh
 alias drmg-install="sh /etc/drmg/run.sh"
 chmod -R 777 /etc/drmg/
 clear
