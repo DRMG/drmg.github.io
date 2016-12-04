@@ -1,6 +1,5 @@
-version="1.0"
-branch="1.0"
-versiontype="Stable"
+version="1.01"
+branch="Stable"
 developers="DRMG"
 downloadserver="https://drmg.github.io/ez.sh"
 wget $downloadserver -O update.sh
