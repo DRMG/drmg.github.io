@@ -9,7 +9,7 @@ clear
 echo "Lade Rainloop Herrunter..."
 sleep 1
 cd $var1
-wget https://www.rainloop.net/repository/webmail/rainloop-community-latest.zip -O raimloop-latest.zip
+wget https://www.rainloop.net/repository/webmail/rainloop-community-latest.zip -O rainloop-latest.zip
 unzip rainloop-latest.zip
 curl -s https://repository.rainloop.net/installer.php | php
 clear
