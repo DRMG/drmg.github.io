@@ -10,7 +10,5 @@ echo "screen -S Server1 java -Xmx500M -Xms500M -jar spigot_server.jar" > /home/S
 chmod 777 start.sh
 echo -n > eula.txt
 echo "eula=true" > /home/Server1/eula.txt
-echo -n > .version
-echo "DRMG_INST_VERSION1.02" > .version
 clear
 echo "Server Fertig!"
