@@ -1,4 +1,4 @@
-downloadserver="https://drmg.github.io/easy_inst.sh"
+downloadserver="https://drmg.github.io/EasyInstall/easy_inst.sh"
 rm -r easy_inst.sh
 echo "Removing old Files"
 rm -R /etc/drmg/
