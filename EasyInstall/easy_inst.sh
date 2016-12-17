@@ -1,4 +1,4 @@
-downloadserver="https://drmg.github.io/apache2_nomysql.sh"
+
 clear
 echo "DRMG EasyInstaller"
 echo "Creating Directory...."
