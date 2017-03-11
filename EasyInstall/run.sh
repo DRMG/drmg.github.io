@@ -1,4 +1,3 @@
-cd /etc/drmg
 version="1.02"
 branch="Stable"
 developers="DRMG"
