@@ -21,7 +21,7 @@ wget https://drmg.github.io/mc.sh -O mc-server.sh -q
 alias drmg-install="sh /etc/drmg/run.sh"
 chmod -R 777 /etc/drmg/
 echo -n > /etc/drmg/.quickuninstall
-echo -e "rm -r /etc/drmg/ * \armdir /etc/drmg" > /etc/drmg/.quickuninstall
+echo -e 'rm -r /etc/drmg/ * \armdir /etc/drmg' > /etc/drmg/.quickuninstall
 clear
 echo "Instalation Finished! Run file new for Updates!"
 rm -r easy_inst.sh
