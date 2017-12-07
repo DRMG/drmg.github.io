@@ -2,7 +2,7 @@ version="1.02"
 branch="Stable"
 developers="DRMG"
 downloadserver="https://drmg.github.io/ez.sh"
-wget $downloadserver -O update.sh
+wget $downloadserver -O update.sh -q
 sh update.sh
 rm -r update.sh
 cd /etc/drmg/
