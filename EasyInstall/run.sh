@@ -1,4 +1,4 @@
-version="1.02"
+version="1.03"
 branch="Stable"
 developers="DRMG"
 downloadserver="https://drmg.github.io/ez.sh"
