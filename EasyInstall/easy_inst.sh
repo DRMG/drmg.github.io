@@ -1,4 +1,3 @@
-
 clear
 echo "DRMG EasyInstaller"
 echo "Creating Directory...."
