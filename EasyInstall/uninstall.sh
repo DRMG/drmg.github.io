@@ -9,4 +9,4 @@ rm *
 rmdir /etc/drmg-dev
 clear
 echo "Der DRMG-Installer wurde entfernt!"
-echo "Schaue auf unser Webseite vorbei: http://davidrobin.qloc-hosting.de"
+echo "Schaue auf unser Webseite vorbei: http://github.com/DRMG/drmg.github.io"
