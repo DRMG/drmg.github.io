@@ -14,6 +14,7 @@ wget https://drmg.github.io/update.sh -O update.sh -q
 wget https://drmg.github.io/start.sh -O programm -q
 wget https://drmg.github.io/EasyInstall/uninstall.sh -O uninstall.sh -q
 wget https://drmg.github.io/whoisconnected.sh -O whoisconnected.sh -q
+wget https://drmg.github.io/apache2mysql.sh -O apache2mysql.sh -q
 wget https://drmg.github.io/nextcloud.sh -O nextcloud.sh -q
 #wget https://drmg.github.io/steamcmd.sh -O steamcmd.sh -q
 wget https://drmg.github.io/mc.sh -O mc-server.sh -q
