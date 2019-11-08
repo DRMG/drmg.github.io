@@ -1,6 +1,6 @@
 clear
 apt-get update && apt-get upgrade -y
-apt-get install openjdk-7-jre-headless screen nano -y
+apt-get install openjdk-8-jre-headless screen nano -y
 cd /home
 mkdir Server1
 cd Server1/
